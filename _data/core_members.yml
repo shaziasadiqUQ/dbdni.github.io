@@ -6,18 +6,22 @@
   photo: juliana.jpg
   web: https://vgc.engineering.nyu.edu/~juliana
   info: "Juliana is a Professor of Computer Science and Data Science at New York University, and the Elected Chair of the ACM SIGMOD. She leads the <b>SUPPORT</b> action at D&I in DM"
-- name: Arun Kumar
-  photo: arun.jpg
-  web: http://cseweb.ucsd.edu/~arunkk/
-  info: "Arun is an Assistant Professor at the University of California, San Diego. He leads the <b>INCLUDE</b> action at D&I in DB"
+- name: Victor Zakhary
+  photo: victor.jpg
+  web: https://sites.cs.ucsb.edu/~victorzakhary/
+  info: "Victor is Senior Member of Technical Staff at Oracle, Bay Area. He co-leads the <b>INCLUDE</b> action at D&I in DB"
 - name: Alexandra Meliou
   photo: alexandra.jpg
   web: https://people.cs.umass.edu/~ameli/
-  info: "Alexandra is an associate professor at the University of Massachusetts Amherst.  She leads the <b>ORGANIZE</b> action at D&I in DB"
+  info: "Alexandra is an associate professor at the University of Massachusetts Amherst.  She co-leads the <b>ORGANIZE</b> action at D&I in DB"
 - name: Wang-Chiew Tan
   photo: wangchiew.JPG
   web: https://wangchiew.github.io
-  info: "Wang-Chiew is a research scientist at Facebook AI. She leads the <b>INFORM</b> action at D&I in DB"
+  info: "Wang-Chiew is a research scientist at Facebook AI. She co-leads the <b>INFORM</b> and <b>ORGANIZE</b> actions at D&I in DB"
+- name: Sourav Bhowmick
+  photo: sourav.jpg
+  web: https://personal.ntu.edu.sg/assourav/
+  info: "Sourav is an associate professor at Nanyang Technological University. He co-leads the <b>INFORM</b> actions at D&I in DB"
 - name: Avrilia Floratou
   photo: avrilia.jpg
   web: https://www.microsoft.com/en-us/research/people/avflor/
