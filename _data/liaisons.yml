@@ -5,7 +5,11 @@
 - name: Juliana Freire
   photo: juliana.jpg
   web: https://vgc.engineering.nyu.edu/~juliana
-  info: "Juliana is a Professor of Computer Science and Data Science at New York University, and the Elected Chair of the ACM SIGMOD. She serves as liaison for the  <b>SIGMOD EC</b>"
+  info: "Juliana is a Professor of Computer Science and Data Science at New York University, and the Elected Chair of the ACM SIGMOD. She serves as liaison for the <b>SIGMOD EC</b>"
+- name: Liat Peterfreund
+  photo: liat.jpg
+  web: https://sites.google.com/view/liatpeterfreund/
+  info: "is a CNRS Research Scientist and serves as liaison for the <b>PODS Executive Committee</b>"
 - name: Meihui Zhang
   photo: meihui.jpg
   web: https://sites.google.com/view/meihui/home
